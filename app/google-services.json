@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660748676497",
+    "project_id": "appcamara-19df1",
+    "storage_bucket": "appcamara-19df1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660748676497:android:cd3a3ec3054b3c2b1b3e30",
+        "android_client_info": {
+          "package_name": "com.example.appcamara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwJUfreS2P1RUic-5npNGnrD7H_-WWAdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
